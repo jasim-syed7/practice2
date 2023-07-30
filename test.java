@@ -1,6 +1,6 @@
 start
 
-{
+{one
 	int a=10
 
 	int b=20			
@@ -8,7 +8,7 @@ mul
 addition
 substraction	
 
-Div
+Division
 
 }
 stop
