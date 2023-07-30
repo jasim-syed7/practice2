@@ -1,6 +1,7 @@
 start
+{1
 
-{one
+}2
 	int a=10
 
 	int b=20			
@@ -8,8 +9,8 @@ mul
 addition
 substraction	
 
-Division
+Dvsn
 
 }
 stop
-stop2
+stop1
