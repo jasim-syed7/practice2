@@ -5,6 +5,8 @@ start
 
 	int b=20			
 
-mul
+Div
+	
 
 }
+stop
